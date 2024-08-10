@@ -1,1 +1,2 @@
 // UI layout created
+// Symptom form with validation added
