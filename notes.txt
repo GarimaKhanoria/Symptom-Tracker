@@ -5,3 +5,4 @@
 // UI layout created
 // Symptom form with validation added
 // API call setup
+// Express route for saving symptoms
