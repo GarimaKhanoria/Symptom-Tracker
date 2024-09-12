@@ -6,3 +6,4 @@
 // Symptom form with validation added
 // API call setup
 // Express route for saving symptoms
+// Added Tailwind styling to form
