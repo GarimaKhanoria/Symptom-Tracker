@@ -8,3 +8,4 @@
 // Express route for saving symptoms
 // Added Tailwind styling to form
 // Bug fix for date formatting
+// E2E testing complete
